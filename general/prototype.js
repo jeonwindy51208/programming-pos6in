@@ -16,3 +16,4 @@ a.print.call(b);
 
 // console.log(a.print.call(b));
 // console.log(a.print.apply(b));
+console.log("hey");
